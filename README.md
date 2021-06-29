@@ -4,8 +4,9 @@
 <body>
   <hr> </hr>
 <h2> </h2>
-<img src="summer.jpg"  alt="Trulli" width="500" height="333">
+<img src="summer.jpg"  alt="Trulli" width="1000" height="600">
   
+ <hr> </hr>
  <hr> </hr>
 </body>
 </html>
